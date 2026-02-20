@@ -2,9 +2,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  Booting cloud infrastructure...  ██████████████░░  89%     ║
-║  Deploying GKE clusters...        ████████████████  Done ✓  ║
-║  Optimizing FinOps...             ████████████████  Done ✓  ║
+║  Designing cloud infrastructure...████████████████  Done ✓   ║
+║  Booting cloud infrastructure...  ████████████████  Done ✓   ║
+║  Deploying GKE clusters...        ████████████████  Done ✓   ║
+║  Optimizing FinOps...             ████████████████  Done ✓   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 

@@ -105,8 +105,8 @@ spec:
 ## 📐 Platform Engineering Philosophy
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                  PLATFORM ENGINEERING PILLARS               │
+┌────────────────────────────────────────────────────────────┐
+│                  PLATFORM ENGINEERING PILLARS              │
 ├──────────────┬──────────────┬──────────────┬───────────────┤
 │  RELIABILITY │   SECURITY   │  SCALABILITY │    FINOPS     │
 │              │              │              │               │

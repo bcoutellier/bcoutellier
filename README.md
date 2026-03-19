@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# Hey, I'm Ben 👋 — Cloud Architect & Platform Engineer
+# Hey, I'm Ben 👋 — Cloud Solution Architect
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4285F4&center=true&vCenter=true&width=600&lines=Cloud+Architect+%7C+GCP+Expert;Platform+Engineer+%7C+Team+Socle;Kubernetes+%7C+Terraform+%7C+FinOps;Montreal+%F0%9F%87%A8%F0%9F%87%A6+%E2%86%94+Paris+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 
 > *"Infrastructure should be invisible, scalable, and boring — in the best way possible."*
 
-I'm a **Cloud Architect & Platform Engineer** at **Sephora**, leading the **Team Socle** responsible for managing a GCP organization spanning **346+ projects** across multiple environments and regions.
+I'm a **Cloud Solution Architect** at **Sephora**, part of the **Team Socle** responsible for managing a GCP organization spanning **346+ projects** across multiple environments and regions.
 
 I bridge the gap between development teams and enterprise-grade infrastructure, designing cloud-native platforms that are secure, cost-efficient, and built to scale.
 
